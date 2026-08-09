@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">Software Engineer building AI-native runtime security systems from kernel-level eBPF telemetry to multi-agent LLM orchestration</h3>
 
-- 🔭 I’m currently working on [Forge — agentic AI coding assistant](github.com/kshzz24/forge)
+- 🔭 I’m currently working on [Forge - agentic AI coding assistant](github.com/kshzz24/forge)
 
 - 🌱 I’m currently learning **eBPF internals, Kubernetes security, multi-agent AI orchestration**
 
